@@ -12,9 +12,9 @@ from starlette.staticfiles import StaticFiles
 #This is the URL for the original bears app
 export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
 #We redefine it for the new model created
-export_file_url = 'https://www.dropbox.com/s/fgmdumra1c1hodr/export.pkl?dl=1'
+export_file_url = 'https://www.dropbox.com/s/fgmdumra1c1hodr/export.pkl?raw=1'
 #A second export file
-export_file_url = 'https://www.dropbox.com/s/rcz1jkvmi00dvnp/export%20%281%29.pkl?dl=1'
+#export_file_url = 'https://www.dropbox.com/s/rcz1jkvmi00dvnp/export%20%281%29.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 #This is the list of classes for the original bears app
